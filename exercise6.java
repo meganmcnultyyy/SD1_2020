@@ -12,7 +12,7 @@ public class exercise6{
 		int columns = 0;
 
 		System.out.print("Enter a symbol: ");
-		char symbol=input.next().charAt(0);
+		char symbol=input.next().charAt(0); /* got this line from a Qoura answer */
 		System.out.print("Enter number of rows: ");
 		rows = input.nextInt();
 		System.out.print("Enter number of columns: ");
