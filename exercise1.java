@@ -1,5 +1,5 @@
 //Megan McNulty 20th April 2020
-// SOftware Developement 1 - Project
+//Software Developement 1 - Project
 //Exercise 1
 
 public class exercise1{
