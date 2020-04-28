@@ -33,8 +33,6 @@ public class index{
 	System.out.println("3. Exercise 3");
 	System.out.println("4. Exercise 4");
 	System.out.println("5. Exercise 5");
-	System.out.println("6. Exercise 6");
-	System.out.println("7. Exercise 7");
 	num = input.nextInt();
 
 	while(num != 0){
@@ -92,15 +90,11 @@ public class index{
 	    	System.out.println("Sum Average: "+((x[0]+x[1]+x[2]+x[3])/4));
 		break;
 
-		case 6:
-		break;
-
-		case 7:
-		break;
 
 		default:
 			System.out.println("Invalid Option. Please pick an exercise or 0 to exit.");
 
+	}
 	}
 
 	}
