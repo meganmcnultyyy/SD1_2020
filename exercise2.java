@@ -1,5 +1,5 @@
 //Megan McNulty 20th April 2020
-// Software Developement 1 - Project
+//Software Developement 1 - Project
 //Exercise 2
 
 import java.util.Scanner;
@@ -18,3 +18,6 @@ public class exercise2{
 	System.out.println(num1+ " + " +num2+ " = "+(num1+num2));
 	System.out.println(num1+ " - " +num2+ " = "+(num1-num2));
 	System.out.println(num1+ " * " +num2+ " = "+(num1*num2));
+	  
+  }
+}
